@@ -1,7 +1,3 @@
-# CodeExcercise
-code Task
-
-
 
 1.If you found any error pom.xml please remove below line in pom.xml:
 
